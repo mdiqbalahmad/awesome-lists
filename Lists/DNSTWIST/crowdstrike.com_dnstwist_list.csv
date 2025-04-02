@@ -7795,7 +7795,7 @@ subdomain,crowds.trike.com,64.190.63.222,,localhost,ns1.sedoparking.com
 subdomain,crowdstr.ike.com,,,,
 subdomain,crowdstri.ke.com,,,,
 transposition,crowdstriek.com,165.160.13.20,,custmx.cscdns.net,dns1.cscdns.net
-transposition,corwdstrike.com,75.2.18.233,,,ns1.dyna-ns.net
+transposition,corwdstrike.com,,,,ns1.dyna-ns.net
 transposition,crodwstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 transposition,crowdsrtike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 transposition,crowdstirke.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
