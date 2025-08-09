@@ -1,5 +1,5 @@
 fuzzer,domain,dns_a,dns_aaaa,dns_mx,dns_ns
-*original,credit-agricole.fr,,,mercure.credit-agricole.fr,a1-241.akam.net
+*original,credit-agricole.fr,158.191.172.47,,mercure.credit-agricole.fr,a1-241.akam.net
 addition,credit-agricole0.fr,,,,
 addition,credit-agricole1.fr,,,,
 addition,credit-agricole2.fr,,,,chenar.credit-agricole.fr
