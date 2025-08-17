@@ -285,12 +285,14 @@ as_number,rir,domain,cc,asname
 207238,ripencc,eurotelecom.info,MD,TVNET
 207246,ripencc,eurotelecom.info,MD,NETSAT_DV
 207566,ripencc,changway.hk,HK,LD007-AS
+207812,ripencc,dm-auto.eu,BG,DM_AUTO
 207957,ripencc,serv.host,UA,ServHost-AS
 208198,ripencc,eksenbilisim.com.tr,TR,Mavi-NET
 208312,ripencc,changway.hk,HK,redbytes
 208317,ripencc,kontrast.md,MD,SF-digitalservices
 208485,ripencc,eksenbilisim.com.tr,TR,EKSENBILISIM
 208525,ripencc,cloudie.hk,HK,AIRULIMITED
+208846,ripencc,atom3.com.ua,UA,ATOM3-AS
 209121,ripencc,liptel.net.ua,UA,NOVYTSKA-AS
 209290,ripencc,galeonllc.ru,RU,GALEON-AS
 209298,ripencc,pinaton.ru,RU,PINATON-AS
@@ -375,7 +377,7 @@ as_number,rir,domain,cc,asname
 214860,ripencc,wensliai.com,HK,STELLAR-GLOW-SERVICES
 214927,ripencc,psb.hosting,RU,PSB-AS
 214940,ripencc,virtualine.org,GB,KPRONET
-214943,ripencc,railnet,US,RAILNET
+214943,ripencc,virtualine.org,GB,RAILNET
 215117,ripencc,hosterdaddy.com,IN,HOSTERDADDY
 215127,ripencc,410.lol,GB,TEAPOT
 215176,ripencc,secureanalitics.com,GB,HOSTINGMEDIAVPNLTD
