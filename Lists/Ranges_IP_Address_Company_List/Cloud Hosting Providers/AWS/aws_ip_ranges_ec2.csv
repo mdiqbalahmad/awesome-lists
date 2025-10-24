@@ -900,6 +900,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 52.95.247.0/24,us-west-2,EC2,us-west-2
 64.252.83.0/24,eu-west-2,EC2,eu-west-2
 99.77.55.253/32,eu-south-2,EC2,eu-south-2
+1.178.91.0/24,ap-northeast-2,EC2,ap-northeast-2
 15.177.64.0/23,us-east-1,EC2,us-east-1
 15.193.9.0/24,ap-northeast-2,EC2,ap-northeast-2
 46.51.208.0/22,us-east-1,EC2,us-east-1
