@@ -1,10 +1,20 @@
+208.102.51.6:58208:United States
+66.42.224.229:41679:United States
+98.170.57.231:4145:United States
+176.120.32.135:5678:Ukraine
 184.185.2.12:4145:United States
 184.178.172.13:15311:United States
-68.71.252.38:4145:United States
-68.71.254.6:4145:United States
-143.110.217.153:1080:Canada
-198.177.252.24:4145:United States
-198.177.254.131:4145:United States
+213.149.156.87:5678:Bulgaria
+61.7.147.227:4145:Thailand
+208.65.90.21:4145:United States
+72.37.216.68:4145:United States
+62.4.37.104:60606:Montenegro
+185.95.186.165:48293:Iraq
+186.1.181.2:60606:Colombia
 184.182.240.12:4145:United States
 184.182.240.211:4145:United States
-192.104.242.158:4145:United States
+103.160.205.38:8080:Indonesia
+31.13.239.4:5678:Bulgaria
+91.247.92.63:5678:Ukraine
+181.204.39.202:53740:Colombia
+103.81.194.163:6666:Indonesia
