@@ -105,9 +105,9 @@ homoglyph,crovudstrike.com,,,,
 homoglyph,crovvbstrike.com,,,,
 homoglyph,crovvclstrike.com,,,,
 homoglyph,crovvdlstrike.com,,,,
+homoglyph,crovvdstrike.com,15.197.148.33,,mailstore1.secureserver.net,ns69.domaincontrol.com
 homoglyph,crovvdstr1ke.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 homoglyph,crovvdstrikc.com,,,,
-homoglyph,crovvdstrike.com,15.197.148.33,,mailstore1.secureserver.net,ns69.domaincontrol.com
 homoglyph,crovvdstrilce.com,,,,
 homoglyph,crovvdstrlke.com,,,,
 homoglyph,crowblstrike.com,,,,
@@ -7614,7 +7614,7 @@ insertion,cr5owdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudf
 insertion,cr9owdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,crdowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,creowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
-insertion,crfowdstrike.com,,,,eric.ns.cloudflare.com
+insertion,crfowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,criowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,crkowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,crlowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
@@ -7710,7 +7710,7 @@ insertion,dcrowdstrike.com,,,,
 insertion,fcrowdstrike.com,,,,
 insertion,vcrowdstrike.com,,,,
 insertion,xcrowdstrike.com,,,,
-omission,crowdstrik.com,104.21.3.182,2606:4700:3030::6815:3b6,,eric.ns.cloudflare.com
+omission,crowdstrik.com,104.21.3.182,2606:4700:3030::6815:3b6,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 omission,crwdstrike.com,8.8.8.8,,mail.crwdstrike.com,dns1.registrar-servers.com
 omission,cowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 omission,crodstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,evangeline.ns.cloudflare.com
