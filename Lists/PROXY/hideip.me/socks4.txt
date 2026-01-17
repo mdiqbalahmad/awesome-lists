@@ -1,21 +1,31 @@
 72.49.49.11:31034:United States
-208.102.51.6:58208:United States
 69.61.200.104:36181:United States
 66.42.224.229:41679:United States
+184.181.217.210:4145:United States
 184.178.172.14:4145:United States
+184.178.172.3:4145:United States
 184.178.172.11:4145:United States
-184.181.217.213:4145:United States
+184.178.172.17:4145:United States
+184.181.217.220:4145:United States
+192.111.139.165:4145:United States
 98.170.57.249:4145:United States
-70.166.167.55:57745:United States
 184.178.172.26:4145:United States
 184.185.2.12:4145:United States
-80.65.80.230:5678:Bosnia and Herzegovina
+184.178.172.13:15311:United States
+174.75.211.222:4145:United States
+72.195.101.99:4145:United States
 98.170.57.241:4145:United States
 208.65.90.21:4145:United States
-192.111.129.150:4145:United States
+68.71.254.6:4145:United States
+199.187.210.54:4145:United States
+58.247.113.130:5678:China
+136.228.160.250:5678:Myanmar
 216.68.128.121:4145:United States
-72.207.109.5:4145:United States
+143.110.217.153:1080:Canada
+103.143.8.126:51951:India
+98.190.239.3:4145:United States
 103.182.240.75:1080:Indonesia
+134.199.159.23:1080:Australia
 198.177.252.24:4145:United States
 198.177.254.131:4145:United States
 198.177.253.13:4145:United States
@@ -24,21 +34,27 @@
 184.182.240.211:4145:United States
 72.207.33.64:4145:United States
 192.104.242.158:4145:United States
-37.18.73.60:5566:Sweden
-123.200.6.58:5678:Bangladesh
-112.78.138.164:5678:Indonesia
-125.228.143.207:4145:Taiwan
-177.52.212.56:4153:Brazil
-91.150.77.58:56921:Serbia
-88.216.215.141:9064:Sweden
-91.142.79.166:8080:Russia
-192.145.31.160:5678:Bulgaria
-88.216.215.140:9081:Switzerland
-192.145.31.160:8888:Bulgaria
-88.216.215.146:9074:The Netherlands
-116.105.22.23:9189:Vietnam
-88.216.215.140:9060:The Netherlands
-5.199.169.254:9095:Poland
-116.105.24.222:9178:Vietnam
-88.216.215.147:9060:Luxembourg
-116.105.27.30:9202:Vietnam
+103.146.137.157:1081:Pakistan
+37.18.73.60:5566:United States
+125.228.94.232:4145:Taiwan
+125.228.94.153:4145:Taiwan
+50.67.100.178:8080:Canada
+198.244.147.24:4455:United Kingdom
+5.199.166.235:9118:Austria
+88.216.68.7:9119:The Netherlands
+88.216.215.142:9119:Germany
+5.199.166.243:9115:The Netherlands
+5.199.166.247:9075:United States
+5.199.166.251:9079:Germany
+88.216.215.143:9115:United States
+88.216.215.142:9063:Poland
+5.199.173.2:9074:Romania
+88.216.68.24:9074:United States
+5.199.166.246:9074:Germany
+5.199.166.234:9074:The Netherlands
+88.216.68.7:9074:The Netherlands
+5.199.166.243:9112:The Netherlands
+5.199.166.240:9112:Germany
+88.216.215.140:9095:Germany
+88.216.215.145:9095:The Netherlands
+88.216.215.146:9065:Austria
