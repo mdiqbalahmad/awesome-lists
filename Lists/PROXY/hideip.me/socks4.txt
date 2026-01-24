@@ -1,33 +1,45 @@
 72.49.49.11:31034:United States
 208.102.51.6:58208:United States
 66.42.224.229:41679:United States
-174.77.111.196:4145:United States
+174.77.111.197:4145:United States
+98.170.57.231:4145:United States
+184.181.217.210:4145:United States
 184.181.217.206:4145:United States
-184.178.172.11:4145:United States
+184.178.172.3:4145:United States
+184.178.172.17:4145:United States
+184.181.217.201:4145:United States
 184.181.217.194:4145:United States
+184.181.217.220:4145:United States
+98.170.57.249:4145:United States
+184.178.172.26:4145:United States
 184.185.2.12:4145:United States
+192.252.216.81:4145:United States
+98.191.0.37:4145:United States
 208.65.90.21:4145:United States
-72.205.0.67:4145:United States
+72.205.0.93:4145:United States
+199.116.114.11:4145:United States
 216.68.128.121:4145:United States
-176.214.78.230:5678:Russia
+72.211.46.99:4145:United States
 143.110.217.153:1080:Canada
-184.181.178.33:4145:United States
-198.177.252.24:4145:United States
+72.207.109.5:4145:United States
+192.252.214.17:4145:United States
 198.177.254.157:4145:United States
-104.248.203.234:1080:The Netherlands
 184.182.240.12:4145:United States
+72.206.74.126:4145:United States
 184.182.240.211:4145:United States
-200.10.31.74:49992:Colombia
-5.199.166.248:9075:United States
-5.199.166.236:9107:Poland
+72.207.33.64:4145:United States
+37.18.73.60:5566:United States
+125.228.94.199:4145:Taiwan
+103.208.100.74:1080:Indonesia
+88.216.68.10:9115:Austria
 84.21.172.174:8080:Latvia
 84.21.172.174:4145:Latvia
 84.21.172.174:5678:Latvia
 84.21.172.174:8888:Latvia
-95.216.67.52:443:Finland
-5.199.166.242:9067:Austria
-5.199.166.249:9092:United States
-5.199.173.4:9105:The Netherlands
-5.199.173.4:9112:The Netherlands
-116.105.18.171:9169:Vietnam
+5.199.173.103:9077:Germany
+88.216.68.12:9077:Poland
+5.199.173.103:9067:Austria
+5.199.166.251:9068:Germany
+88.216.68.12:9086:Germany
 147.45.222.253:3128:Germany
+116.105.18.171:9173:Vietnam
