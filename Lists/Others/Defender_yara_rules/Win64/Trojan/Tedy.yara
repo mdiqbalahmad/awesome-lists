@@ -1135,6 +1135,29 @@ rule Trojan_Win64_Tedy_C_2147922679_0
         severity = "Critical"
         info = "MTB: Microsoft Threat Behavior"
         signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "12"
+        strings_accuracy = "Low"
+    strings:
+        $x_10_1 = {48 89 c2 83 e2 ?? 0f b6 14 11 30 14 06 48 83 c0 01 4c 39 e0 75}  //weight: 10, accuracy: Low
+        $x_1_2 = "_enc" ascii //weight: 1
+        $x_1_3 = "Software\\Microsoft\\Windows\\CurrentVersion\\Run" ascii //weight: 1
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Trojan_Win64_Tedy_C_2147922679_1
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:Win64/Tedy.C!MTB"
+        threat_id = "2147922679"
+        type = "Trojan"
+        platform = "Win64: Windows 64-bit platform"
+        family = "Tedy"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
         threshold = "14"
         strings_accuracy = "High"
     strings:
@@ -6631,6 +6654,27 @@ rule Trojan_Win64_Tedy_GPKB_2147971460_0
         $x_10_1 = "shellinit: sentinel@0x%p" ascii //weight: 10
         $x_5_2 = "VirtualAllocEx(shellcode)" ascii //weight: 5
         $x_3_3 = "sarkholes-inject-debug" ascii //weight: 3
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Trojan_Win64_Tedy_GVO_2147971648_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:Win64/Tedy.GVO!MTB"
+        threat_id = "2147971648"
+        type = "Trojan"
+        platform = "Win64: Windows 64-bit platform"
+        family = "Tedy"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "1"
+        strings_accuracy = "High"
+    strings:
+        $x_1_1 = {8b 85 74 01 00 00 48 98 ff 85 74 01 00 00 8b 95 74 01 00 00 69 d2 00 00 00 6e c1 ea 18 41 32 14 00 41 88 14 00 8b 85 74 01 00 00 83 f8 11 72 d0}  //weight: 1, accuracy: High
     condition:
         (filesize < 20MB) and
         (all of ($x*))
