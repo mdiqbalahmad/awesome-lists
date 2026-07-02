@@ -1,5 +1,5 @@
 fuzzer,domain,dns_a,dns_aaaa,dns_mx,dns_ns
-*original,francetravail.fr,185.215.64.79,,smtp1.francetravail.fr,dns1.pole-emploi.fr
+*original,francetravail.fr,185.215.64.79,,mx1.hc1819-26.eu.iphmx.com,dns1.pole-emploi.fr
 addition,francetravail0.fr,,,,
 addition,francetravail1.fr,,,,
 addition,francetravail2.fr,,,,
