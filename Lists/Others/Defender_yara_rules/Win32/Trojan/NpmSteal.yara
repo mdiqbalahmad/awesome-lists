@@ -1,9 +1,9 @@
-rule Trojan_Win32_NpmSteal_MU_2147973540_0
+rule Trojan_Win32_NpmSteal_MU_2147973588_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win32/NpmSteal.MU!MTB"
-        threat_id = "2147973540"
+        threat_id = "2147973588"
         type = "Trojan"
         platform = "Win32: Windows 32-bit platform"
         family = "NpmSteal"

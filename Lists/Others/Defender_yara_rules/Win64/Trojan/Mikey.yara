@@ -2655,12 +2655,12 @@ rule Trojan_Win64_Mikey_LRI_2147972421_0
         (all of ($x*))
 }
 
-rule Trojan_Win64_Mikey_SNO_2147973309_0
+rule Trojan_Win64_Mikey_SNO_2147973339_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/Mikey.SNO!MTB"
-        threat_id = "2147973309"
+        threat_id = "2147973339"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "Mikey"
@@ -2678,12 +2678,12 @@ rule Trojan_Win64_Mikey_SNO_2147973309_0
         (all of ($x*))
 }
 
-rule Trojan_Win64_Mikey_SXL_2147973395_0
+rule Trojan_Win64_Mikey_SXL_2147973440_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win64/Mikey.SXL!MTB"
-        threat_id = "2147973395"
+        threat_id = "2147973440"
         type = "Trojan"
         platform = "Win64: Windows 64-bit platform"
         family = "Mikey"
