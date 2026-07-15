@@ -8564,6 +8564,7 @@ rule Trojan_Win32_ClickFix_EEI_2147945790_0
         $x_10_4 = "start-process powershell -argumentlist '-w h'" wide //weight: 10
         $n_800_5 = "AnimGraphNode" wide //weight: -800
         $n_800_6 = "[Console]::OutputEncoding" wide //weight: -800
+        $n_800_7 = ".post('http://127.0.0.1:8010/render', files={'files': ('sample.txt" wide //weight: -800
     condition:
         (filesize < 20MB) and
         (not (any of ($n*))) and
@@ -15048,12 +15049,12 @@ rule Trojan_Win32_ClickFix_MUG_2147973066_0
         (all of ($x*))
 }
 
-rule Trojan_Win32_ClickFix_AHZ_2147973691_0
+rule Trojan_Win32_ClickFix_AHZ_2147973716_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win32/ClickFix.AHZ!MTB"
-        threat_id = "2147973691"
+        threat_id = "2147973716"
         type = "Trojan"
         platform = "Win32: Windows 32-bit platform"
         family = "ClickFix"
@@ -15073,12 +15074,12 @@ rule Trojan_Win32_ClickFix_AHZ_2147973691_0
         (all of ($x*))
 }
 
-rule Trojan_Win32_ClickFix_TCZ_2147973692_0
+rule Trojan_Win32_ClickFix_TCZ_2147973717_0
 {
     meta:
         author = "defender2yara"
         detection_name = "Trojan:Win32/ClickFix.TCZ!MTB"
-        threat_id = "2147973692"
+        threat_id = "2147973717"
         type = "Trojan"
         platform = "Win32: Windows 32-bit platform"
         family = "ClickFix"
