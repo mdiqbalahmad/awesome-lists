@@ -3434,6 +3434,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 52.93.153.66/32,eu-west-2,AMAZON,eu-west-2
 54.239.106.0/23,eu-central-1,AMAZON,eu-central-1
 71.132.0.0/18,cn-north-1,AMAZON,cn-north-1
+80.126.2.0/24,ap-east-1,AMAZON,ap-east-1
 96.0.136.0/21,ap-southeast-1,AMAZON,ap-southeast-1
 99.150.40.0/21,eu-west-2,AMAZON,eu-west-2
 216.244.10.0/24,eu-central-1,AMAZON,eu-central-1
