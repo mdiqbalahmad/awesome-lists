@@ -46,7 +46,6 @@ bitsquatting,lapnste.fr,,,,
 bitsquatting,lapo3te.fr,,,,
 bitsquatting,lapocte.fr,,,,
 bitsquatting,lapoqte.fr,,,,
-bitsquatting,maposte.fr,192.155.84.236,2600:3c01::2000:3aff:feb3:2e94,mail.mailerhost.net,lunlun.ns.giantpanda.com
 bitsquatting,laporte.fr,94.143.220.219,,mail.laporte.fr,ns1.hostcoyote.com
 bitsquatting,lapos4e.fr,,,,
 bitsquatting,laposde.fr,,,,
@@ -64,9 +63,10 @@ bitsquatting,laroste.fr,,,,
 bitsquatting,latoste.fr,,,,
 bitsquatting,laxoste.fr,,,,
 bitsquatting,lcposte.fr,,,,
-bitsquatting,leposte.fr,88.198.116.121,2a01:4f8:c014:b2d8::1,mx186.m2bp.com,ns1.dovendi.nl
 bitsquatting,liposte.fr,,,,
 bitsquatting,lqposte.fr,,,,
+bitsquatting,maposte.fr,192.155.84.236,2600:3c01::2000:3aff:feb3:2e94,mail.mailerhost.net,lunlun.ns.giantpanda.com
+bitsquatting,leposte.fr,88.198.116.121,2a01:4f8:c014:b2d8::1,mx186.m2bp.com,ns1.dovendi.nl
 bitsquatting,naposte.fr,,,,
 cyrillic,xn--80ak0ahl7io2b.fr,,,,
 homoglyph,1ap0ste.fr,,,,
@@ -357,10 +357,10 @@ transposition,lapotse.fr,213.186.33.5,,mx1.mail.ovh.net,dns109.ovh.net
 transposition,lapsote.fr,,,,
 transposition,lpaoste.fr,,,,
 various,laposte-fr.com,142.111.77.235,,,ns1.crazydomains.com
-various,lapostefr.com,44.232.173.249,!ServFail,,launch1.spaceship.net
+various,lapostefr.com,44.232.173.249,,,launch1.spaceship.net
 various,lapostefr.fr,,,,
 vowel-swap,lapaste.fr,,,,
-vowel-swap,lapeste.fr,148.135.128.144,2a02:4780:4e:a1f5:2843:44ac:2137:aa2d,mx1.hostinger.fr,ns1.dns-parking.com
+vowel-swap,lapeste.fr,148.135.128.99,2a02:4780:4e:67af:558:cfc6:f84a:349c,mx1.hostinger.fr,ns1.dns-parking.com
 vowel-swap,laposti.fr,,,,
 vowel-swap,laposto.fr,,,,
 vowel-swap,lapuste.fr,,,,
