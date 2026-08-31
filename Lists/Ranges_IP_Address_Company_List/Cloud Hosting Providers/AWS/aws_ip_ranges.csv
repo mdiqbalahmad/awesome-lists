@@ -2021,6 +2021,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 15.230.15.44/31,eu-central-1,AMAZON,eu-central-1
 15.230.15.172/31,eu-central-1,AMAZON,eu-central-1
 15.230.254.0/31,us-east-1,AMAZON,us-east-1
+15.248.194.0/24,ca-central-1,AMAZON,ca-central-1
 16.168.0.0/15,eu-north-1,AMAZON,eu-north-1
 16.176.0.0/16,ap-southeast-2,AMAZON,ap-southeast-2
 35.55.12.0/24,ap-southeast-2,AMAZON,ap-southeast-2
