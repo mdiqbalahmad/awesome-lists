@@ -615,6 +615,27 @@ rule Trojan_MSIL_Injector_MK_2147771659_1
         (all of ($x*))
 }
 
+rule Trojan_MSIL_Injector_C_2147772001_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:MSIL/Injector.C!MTB"
+        threat_id = "2147772001"
+        type = "Trojan"
+        platform = "MSIL: .NET intermediate language scripts"
+        family = "Injector"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "1"
+        strings_accuracy = "High"
+    strings:
+        $x_1_1 = {28 0b 00 00 06 26 12 03 28 10 00 00 0a 28 13 00 00 0a 13 0b 12 02 7b 22 00 00 04 11 0a 1f 10 6a 58 73 14 00 00 0a 11 0b 11 0b 8e 69 73 15 00 00 0a 12 0c 28 0c 00 00 06 26}  //weight: 1, accuracy: High
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
 rule Trojan_MSIL_Injector_CH_2147775594_0
 {
     meta:
@@ -2902,6 +2923,31 @@ rule Trojan_MSIL_Injector_MY_2147977878_0
         $x_3_2 = {00 00 00 00 02 00 00 01 57 b5 02 3c 09 0f 00 00 00 00 00 00 00 00 00 00 01 00 00 00 53 00 00 00 25 00 00 00 4b 00 00 00 b5 00 00 00 e3 00 00 00 64 00 00 00 23 00 00 00 04 00 00 00 07 00 00 00 0f 00 00 00 01 00 00 00 01 00 00 00 02 00 00 00 08 00 00 00 01 00 00 00 03 00 00 00 03 00 00 00 1d 00 00 00 02 00 00 00 0a 00 00 00}  //weight: 3, accuracy: High
         $x_1_3 = "RAC.dll" ascii //weight: 1
         $x_1_4 = "EXECUTE" ascii //weight: 1
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Trojan_MSIL_Injector_ME_2147978097_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:MSIL/Injector.ME!MTB"
+        threat_id = "2147978097"
+        type = "Trojan"
+        platform = "MSIL: .NET intermediate language scripts"
+        family = "Injector"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "9"
+        strings_accuracy = "High"
+    strings:
+        $x_3_1 = "$6f5de052-f32c-4167-96cc-36343c27a8bd" ascii //weight: 3
+        $x_3_2 = {00 00 00 00 02 00 00 01 57 bd 02 3c 09 0e 00 00 00 fa 25 33 00 16 00 00 01 00 00 00 38 00 00 00 19 00 00 00 58 00 00 00 6e 00 00 00 ab 00 00 00 49 00 00 00 09 00 00 00 18 00 00 00 02 00 00 00 02 00 00 00 11 00 00 00 01 00 00 00 01 00 00 00 02 00 00 00 02 00 00 00 01 00 00 00 02 00 00 00 16 00 00 00 06 00 00 00 0d 00 00 00}  //weight: 3, accuracy: High
+        $x_1_3 = "SHEEP.dll" ascii //weight: 1
+        $x_1_4 = "Runner" ascii //weight: 1
+        $x_1_5 = "LAUNCH" ascii //weight: 1
     condition:
         (filesize < 20MB) and
         (all of ($x*))
