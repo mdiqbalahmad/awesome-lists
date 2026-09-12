@@ -232018,5 +232018,29 @@
     "domain": "poolstrade.com",
     "age": "0 days ago (09/11/2026)",
     "retrievedAt": "2026-09-11T23:07:41.730Z"
+  },
+  {
+    "id": "1478035",
+    "domain": "swiss-alpine.ro",
+    "age": "83 days ago (06/21/2026)",
+    "retrievedAt": "2026-09-12T22:57:19.721Z"
+  },
+  {
+    "id": "1481502",
+    "domain": "228628.xyz",
+    "age": "7 days ago (09/05/2026)",
+    "retrievedAt": "2026-09-12T22:57:32.358Z"
+  },
+  {
+    "id": "1481822",
+    "domain": "bunkershub.com",
+    "age": "0 days ago (09/12/2026)",
+    "retrievedAt": "2026-09-12T22:57:34.307Z"
+  },
+  {
+    "id": "1481447",
+    "domain": "dratify.com",
+    "age": "9 days ago (09/03/2026)",
+    "retrievedAt": "2026-09-12T22:57:34.308Z"
   }
 ]
