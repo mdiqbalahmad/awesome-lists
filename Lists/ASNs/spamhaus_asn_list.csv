@@ -18,6 +18,7 @@ as_number,rir,domain,cc,asname
 11527,arin,xproxies.com,US,NOVABROADBAND
 13875,arin,mxfiber.com,HK,AS13875-MX-FIBER
 14576,arin,king-servers.com,US,HOSTING-SOLUTIONS
+14956,arin,cloudzy.com,IR,ROUTERHOSTING
 17447,apnic,net4india.com,IN,NET4-IN
 17612,apnic,rinnai.co.kr,KR,RINNAI-AS-KR
 17994,apnic,appserv.co.nz,NZ,SPARK-AS-AP
@@ -208,11 +209,14 @@ as_number,rir,domain,cc,asname
 198071,ripencc,berch.co.uk,GB,BERCHSOLUTIONS-AS
 198189,ripencc,stealthvm.net,GB,STEALTHVM
 198571,ripencc,plainproxies.com,DE,PlainProxies
+198636,ripencc,capsulaltd.uk,GB,CAPSULA-AS
 198926,ripencc,rapidoserver.com,IR,Fazed
 198953,ripencc,proton66.ru,RU,proton66
 198981,ripencc,chosting.solutions,UA,NETSHIELD-BYOIP
 199420,ripencc,fly-group.ru,RU,FLYGROUP-AS
+199457,ripencc,solidserver.io,HK,SolidCore
 199467,ripencc,swissnetwork.io,IR,Hossein_Zangooei
+199804,ripencc,the-first-east-star,GB,TFES-AS
 200010,ripencc,cantech.international,US,OLFE
 200051,ripencc,kyonix.com,RU,VPSLab-Networks
 200130,ripencc,ryzehosting.com,AT,SIMON-MARIACHER
@@ -331,6 +335,7 @@ as_number,rir,domain,cc,asname
 211121,ripencc,imtigernet,GB,India
 211199,ripencc,liptel.net.ua,UA,LIPTEL-AS
 211238,ripencc,zumy.eu,IN,DCYBER
+211443,ripencc,sinoworldwidetrading.com,HK,SINOWORLDWIDE
 211663,ripencc,changway.hk,HK,GALEON-AS
 211720,ripencc,xor.sc,SC,DATASHIELD_CH
 211762,ripencc,fineproxy.org,RU,REGION40
@@ -418,10 +423,6 @@ as_number,rir,domain,cc,asname
 400522,arin,ipswat.com,US,ROOTCLOUD
 400641,arin,ipv4holdings.net,US,IPV4HOLDINGS
 400992,arin,62yun.com,RU,ZHOUYISAT-COMMUNICATIONS
-401109,arin,zhongguancun.asia,US,ZHONGGUANCUN-CO
-401110,arin,sovy.cloud,NL,AS-SOVYCLOUD
-401116,arin,nybula.com,US,NYBULA
-401120,arin,cheapy.host,US,CHEAPY-HOST
 401626,arin,netiface.co.uk,GB,NETIFACE-TORONTO
 401696,arin,cognetcloud.com,HK,COGNETCLOUD
 401701,arin,cognetcloud.com,HK,COGNETCLOUD-2
