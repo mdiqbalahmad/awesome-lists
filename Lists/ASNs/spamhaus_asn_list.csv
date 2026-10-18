@@ -203,6 +203,7 @@ as_number,rir,domain,cc,asname
 154206,apnic,cloudie.hk,HK,CDN1COM-AS-AP
 197170,ripencc,hostslick.de,DE,TECHTIES-AS
 197176,ripencc,kyliecdn,CN,KylieCDN-AS
+197283,ripencc,powerrdp.pro,UA,PowerRDP-Network-AS
 197450,ripencc,sunucun.com.tr,TR,SUNUCUN
 197555,ripencc,smartmieten.in,IN,SMARTMIETEN
 197769,ripencc,vpsdedicated.net,US,VPSDEDICATED-AS
@@ -247,9 +248,12 @@ as_number,rir,domain,cc,asname
 202412,ripencc,virtualine.org,GB,OMEGATECH-AS
 202425,ripencc,ipvolume.net,NL,INT-NETWORK
 202481,ripencc,reapolis,UA,REAPOLIS-AS
+202972,ripencc,pixoof.com,TR,ROKUNET
 203044,ripencc,telepatiya.kz,KZ,telepatiya
 203120,ripencc,globtelgroup.com,US,GTGL
+203154,ripencc,play2go.cloud,RU,MITELIS-DOWNSTREAM
 203273,ripencc,aeza.net,RU,NetCraftersOU
+203319,ripencc,gir.network,RU,GIR-AS-1
 203861,ripencc,netiface.co.uk,GB,MITEFLUX-AS
 203950,ripencc,kontrast.md,MD,Contrust-Solutions
 203999,ripencc,gwhostinglabs.com,IN,GeekyWorks
@@ -288,6 +292,7 @@ as_number,rir,domain,cc,asname
 207043,ripencc,dedik.io,LV,DEDIK-IO
 207088,ripencc,adoard.com,RO,ADOARD
 207566,ripencc,changway.hk,HK,LD007-AS
+207713,ripencc,gir.network,RU,GIR-AS
 207812,ripencc,dm-auto.eu,BG,DM_AUTO
 207957,ripencc,serv.host,UA,ServHost-AS
 207986,ripencc,ozon.ru,RU,OZON-BANK-AS
@@ -351,7 +356,9 @@ as_number,rir,domain,cc,asname
 212867,ripencc,brutalproxies.com,NL,SIPALTO
 213035,ripencc,serverion.com,NL,AS-SERVERION
 213137,ripencc,kontrast.md,MD,Contrust
+213186,ripencc,bendcompass.com,IN,AYSTOR
 213200,ripencc,tube-hosting.de,DE,FZink
+213229,ripencc,play2go.cloud,RU,MITELIS
 213373,ripencc,ipconnect.services,SC,IPCONNECT
 213388,ripencc,iic-rail,GB,IIC-AS
 213389,ripencc,netip.com.ua,UA,ASPODOLSK
@@ -381,8 +388,10 @@ as_number,rir,domain,cc,asname
 215340,ripencc,62yun.com,RU,MySim-Nigeria
 215376,ripencc,sshvps.net,RU,mlcloud
 215402,ripencc,berdiev-ruslan-mukhabatovich,RU,ASAD-AS
+215439,ripencc,play2go.cloud,RU,PLAY2GO-NET
 215460,ripencc,infiniroute.io,US,FELCLOUD
 215474,ripencc,biil.ru,GB,BIIL-RU-AS
+215540,ripencc,globconnex.com,RU,GCS-AS
 215730,ripencc,h2.nexus,UA,H2NEXUS-AS
 215731,ripencc,novuslabslimited.com,US,NovusLabs
 215765,ripencc,pitline.net,UA,RADIO-LINK-SMART
@@ -395,9 +404,11 @@ as_number,rir,domain,cc,asname
 216475,ripencc,nktele.com,RU,nktelecom
 218731,ripencc,qwins.co,EE,Andris-Jakovlevs
 218732,ripencc,rapidoserver.com,IR,rapidoserver
+218785,ripencc,tcdatacenter.com,HK,TC-DATACENTER
 218986,ripencc,snowcore.io,GB,SnowcoreInc
 219067,ripencc,eggywall.org,IT,CHIARA-AS
 219326,ripencc,sulavi.co.uk,GB,SULAVIL
+219337,ripencc,play2go.cloud,RU,PLAY2GO
 219502,ripencc,stormindustries.llc,US,STORMCLOUD-AS
 266702,lacnic,nodonorte.net.ar,AR,MEGALINK_S.R.L.
 266724,lacnic,donserver.cl,CL,MYRIAM_PILAR_ESCOBAR_VEGA_(DON_SERVER)
