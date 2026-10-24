@@ -1,5 +1,5 @@
 fuzzer,domain,dns_a,dns_aaaa,dns_mx,dns_ns
-*original,crowdstrike.com,23.192.220.10,2600:1418:a000:15::1726:6dba,mxa-00206402.gslb.pphosted.com,ns1.crowdstrike.com
+*original,crowdstrike.com,23.200.156.71,2600:1418:a000:d::17c1:c84b,mxa-00206402.gslb.pphosted.com,ns1.crowdstrike.com
 addition,crowdstrike0.com,,,,
 addition,crowdstrike1.com,,,,
 addition,crowdstrike2.com,,,,
@@ -7602,7 +7602,7 @@ hyphenation,crowdstr-ike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.
 hyphenation,crowdstri-ke.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 hyphenation,crowdstrik-e.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 insertion,crowdstriike.com,165.160.13.20,,custmx.cscdns.net,dns1.cscdns.net
-insertion,crowdstrilke.com,23.220.161.80,2600:1418:a000:15::1726:6dad,,n2-a1.aka-ns.net
+insertion,crowdstrilke.com,23.213.53.60,2600:1418:a000:d::17c1:c844,,n2-a1.aka-ns.net
 insertion,c4rowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 insertion,c5rowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 insertion,cdrowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
@@ -7710,7 +7710,7 @@ insertion,dcrowdstrike.com,,,,
 insertion,fcrowdstrike.com,,,,
 insertion,vcrowdstrike.com,,,,
 insertion,xcrowdstrike.com,,,,
-omission,crowdstrik.com,23.36.217.49,2600:1418:a000:15::1726:6dae,inbound-smtp.us-east-1.amazonaws.com,n2-a1.aka-ns.net
+omission,crowdstrik.com,104.119.189.147,2600:1418:a000:d::17c1:c85b,inbound-smtp.us-east-1.amazonaws.com,n2-a1.aka-ns.net
 omission,crwdstrike.com,8.8.8.8,,mail.crwdstrike.com,dns1.registrar-servers.com
 omission,cowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 omission,crodstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
@@ -7794,7 +7794,7 @@ subdomain,crowd.strike.com,,,,
 subdomain,crowds.trike.com,64.190.63.222,,localhost,ns1.sedoparking.com
 subdomain,crowdstr.ike.com,,,,
 subdomain,crowdstri.ke.com,,,,
-transposition,crowdstriek.com,23.192.220.14,2600:1418:a000:15::1726:6dad,,n2-a1.aka-ns.net
+transposition,crowdstriek.com,104.119.189.145,2600:1418:a000:d::17c1:c855,,n2-a1.aka-ns.net
 transposition,corwdstrike.com,,,,eric.ns.cloudflare.com
 transposition,crodwstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 transposition,crowdsrtike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
