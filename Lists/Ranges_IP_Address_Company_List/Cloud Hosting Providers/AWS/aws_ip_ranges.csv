@@ -6048,6 +6048,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 184.34.158.0/23,us-west-2,AMAZON,us-west-2
 32.184.190.0/23,us-west-2,AMAZON,us-west-2
 32.191.183.128/25,us-west-2,AMAZON,us-west-2
+32.191.214.0/25,us-west-2,AMAZON,us-west-2
 34.223.24.0/22,us-west-2,AMAZON,us-west-2
 34.223.45.0/25,us-west-2,AMAZON,us-west-2
 35.86.187.128/26,us-west-2,AMAZON,us-west-2
