@@ -267,12 +267,12 @@ as_number,rir,domain,cc,asname
 204872,ripencc,kontrast.md,MD,Contrust-Solutions
 205083,ripencc,xor.sc,SC,DATASHIELD_FILTER
 205301,ripencc,kontrast.md,MD,Contrust-Solutions
+205329,ripencc,pfcloud.io,DE,Kai-Jung-Chen
 205397,ripencc,69host.cc,US,AS-69HOST
 205486,ripencc,sunucun.com.tr,TR,LKGF
 205745,ripencc,kontrast.md,MD,Contrust-Solutions
 205770,ripencc,kontrast.md,MD,Contrust-Solutions
 205884,ripencc,kontrast.md,MD,Contrust-Solutions
-205997,ripencc,zerolimit-servers.cool,MD,Vlad_Cojuhari
 206005,ripencc,kontrast.md,MD,Contrust-Solutions
 206127,ripencc,kontrast.md,MD,Contrust-Solutions
 206305,ripencc,kontrast.md,MD,Contrust-Solutions
@@ -434,6 +434,7 @@ as_number,rir,domain,cc,asname
 400522,arin,ipswat.com,US,ROOTCLOUD
 400641,arin,ipv4holdings.net,US,IPV4HOLDINGS
 400992,arin,62yun.com,RU,ZHOUYISAT-COMMUNICATIONS
+401142,arin,acerdp.io,RO,ACERDP
 401626,arin,netiface.co.uk,GB,NETIFACE-TORONTO
 401696,arin,cognetcloud.com,HK,COGNETCLOUD
 401701,arin,cognetcloud.com,HK,COGNETCLOUD-2
