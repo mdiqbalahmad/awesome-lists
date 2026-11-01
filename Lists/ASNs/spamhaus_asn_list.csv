@@ -139,6 +139,7 @@ as_number,rir,domain,cc,asname
 135271,apnic,globtelgroup.com,US,GLOBTELGROUP-AS-AP
 135388,apnic,serveroffer.lt,LT,RPL-HK
 135752,apnic,evokedigital.in,IN,EVOKEDS-AS
+136250,apnic,zqhwl-cn,CN,ZQHWL-AS-AP
 136367,apnic,herbzoothealthcare.co.in,IN,HERBZOOT-AS-IN
 136923,apnic,thestack.net,HK,WIT-AS-AP
 137156,apnic,blueberrywebs.com,IN,BLUEB-AS
@@ -210,7 +211,6 @@ as_number,rir,domain,cc,asname
 198071,ripencc,berch.co.uk,GB,BERCHSOLUTIONS-AS
 198189,ripencc,stealthvm.net,GB,STEALTHVM
 198571,ripencc,plainproxies.com,DE,PlainProxies
-198636,ripencc,capsulaltd.uk,GB,CAPSULA-AS
 198926,ripencc,rapidoserver.com,IR,Fazed
 198953,ripencc,proton66.ru,RU,proton66
 198981,ripencc,chosting.solutions,UA,NETSHIELD-BYOIP
@@ -254,7 +254,7 @@ as_number,rir,domain,cc,asname
 203154,ripencc,play2go.cloud,RU,MITELIS-DOWNSTREAM
 203273,ripencc,aeza.net,RU,NetCraftersOU
 203319,ripencc,gir.network,RU,GIR-AS-1
-203861,ripencc,netiface.co.uk,GB,MITEFLUX-AS
+203861,ripencc,netiface.co.uk,GB,SERVEREXPRESS-AS
 203950,ripencc,kontrast.md,MD,Contrust-Solutions
 203999,ripencc,gwhostinglabs.com,IN,GeekyWorks
 204428,ripencc,ssnet.eu,BG,SS-Net
@@ -360,6 +360,7 @@ as_number,rir,domain,cc,asname
 213200,ripencc,tube-hosting.de,DE,FZink
 213229,ripencc,play2go.cloud,RU,MITELIS
 213373,ripencc,ipconnect.services,SC,IPCONNECT
+213382,ripencc,cubixserv.com,FR,PEERYX
 213388,ripencc,iic-rail,GB,IIC-AS
 213389,ripencc,netip.com.ua,UA,ASPODOLSK
 213438,ripencc,colocatel.com,SC,colocatel-inc
@@ -380,6 +381,7 @@ as_number,rir,domain,cc,asname
 214497,ripencc,whitelabel.sh,IL,WHITELABEL
 214576,ripencc,berdiev-ruslan-mukhabatovich,RU,BRM5-AS
 214927,ripencc,psb.hosting,RU,PSB-AS
+214961,ripencc,stellar-group.fr,BE,STELLARGROUPSAS
 215117,ripencc,hosterdaddy.com,IN,HOSTERDADDY
 215136,ripencc,ryzehosting.com,AT,Ryzehosting
 215183,ripencc,vaultdweller.net,EE,zhaikov-as
@@ -405,8 +407,10 @@ as_number,rir,domain,cc,asname
 218731,ripencc,qwins.co,EE,Andris-Jakovlevs
 218732,ripencc,rapidoserver.com,IR,rapidoserver
 218785,ripencc,tcdatacenter.com,HK,TC-DATACENTER
+218974,ripencc,changway.hk,HK,UFO-TECHNOLOGIES-LIMITED
 218986,ripencc,snowcore.io,GB,SnowcoreInc
 219067,ripencc,eggywall.org,IT,CHIARA-AS
+219199,ripencc,genyus.sc,SC,GENYUS-AS
 219326,ripencc,sulavi.co.uk,GB,SULAVIL
 219337,ripencc,play2go.cloud,RU,PLAY2GO
 219502,ripencc,stormindustries.llc,US,STORMCLOUD-AS
