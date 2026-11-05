@@ -1,112 +1,126 @@
 [
   {
-    "country": "Netherlands",
-    "ip": "45.74.31.46",
-    "port": "4961",
-    "type": "socks5",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Netherlands",
-    "ip": "45.74.31.42",
-    "port": "5833",
-    "type": "socks5",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Netherlands",
-    "ip": "45.74.31.41",
-    "port": "9885",
-    "type": "socks5",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Netherlands",
-    "ip": "45.74.31.40",
-    "port": "9885",
+    "country": "Finland",
+    "ip": "65.21.252.66",
+    "port": "10806",
     "type": "socks5",
     "anonymity": "elite"
   },
   {
     "country": "United States of America",
-    "ip": "98.191.0.37",
+    "ip": "50.222.120.243",
+    "port": "1080",
+    "type": "socks5",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Netherlands",
+    "ip": "5.255.99.75",
+    "port": "1080",
+    "type": "socks5",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Germany",
+    "ip": "5.75.133.113",
+    "port": "10805",
+    "type": "socks5",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Netherlands",
+    "ip": "45.74.31.47",
+    "port": "9858",
+    "type": "socks5",
+    "anonymity": "elite"
+  },
+  {
+    "country": "United States of America",
+    "ip": "67.201.35.145",
     "port": "4145",
     "type": "socks5",
     "anonymity": "elite"
   },
   {
+    "country": "Poland",
+    "ip": "57.128.249.250",
+    "port": "9052",
+    "type": "socks5",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Netherlands",
+    "ip": "5.255.117.127",
+    "port": "1080",
+    "type": "socks5",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Germany",
+    "ip": "49.13.22.249",
+    "port": "10808",
+    "type": "socks5",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Germany",
+    "ip": "46.232.249.209",
+    "port": "40001",
+    "type": "socks5",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Germany",
+    "ip": "49.13.162.163",
+    "port": "1080",
+    "type": "socks5",
+    "anonymity": "elite"
+  },
+  {
     "country": "United States of America",
-    "ip": "209.182.199.206",
-    "port": "3128",
-    "type": "socks5",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Russian Federation",
-    "ip": "95.84.138.220",
-    "port": "1080",
-    "type": "socks5",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Russian Federation",
-    "ip": "95.64.183.46",
-    "port": "1080",
-    "type": "socks5",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Russian Federation",
-    "ip": "212.115.59.74",
-    "port": "1080",
-    "type": "socks5",
-    "anonymity": "elite"
-  },
-  {
-    "country": "Switzerland",
-    "ip": "91.92.155.207",
-    "port": "1080",
-    "type": "socks5",
-    "anonymity": "elite"
-  },
-  {
-    "country": "United States of America",
-    "ip": "98.175.31.222",
+    "ip": "67.201.58.190",
     "port": "4145",
     "type": "socks5",
     "anonymity": "elite"
   },
   {
-    "country": "United States of America",
-    "ip": "209.97.150.167",
+    "country": "Pakistan",
+    "ip": "58.27.213.133",
+    "port": "1080",
+    "type": "socks5",
+    "anonymity": "elite"
+  },
+  {
+    "country": "Netherlands",
+    "ip": "5.255.113.177",
     "port": "1080",
     "type": "socks5",
     "anonymity": "elite"
   },
   {
     "country": "United States of America",
-    "ip": "98.170.57.231",
-    "port": "4145",
+    "ip": "67.201.33.10",
+    "port": "25283",
     "type": "socks5",
     "anonymity": "elite"
   },
   {
     "country": "Russian Federation",
-    "ip": "87.117.2.201",
+    "ip": "5.183.146.186",
     "port": "1080",
     "type": "socks5",
     "anonymity": "elite"
   },
   {
-    "country": "Italy",
-    "ip": "212.77.75.25",
-    "port": "1088",
+    "country": "Netherlands",
+    "ip": "5.255.103.55",
+    "port": "1080",
     "type": "socks5",
     "anonymity": "elite"
   },
   {
-    "country": "United States of America",
-    "ip": "209.50.255.91",
+    "country": "Kazakhstan",
+    "ip": "46.235.83.76",
     "port": "1080",
     "type": "socks5",
     "anonymity": "elite"
