@@ -121,13 +121,16 @@ as_number,rir,domain,cc,asname
 62380,ripencc,bunea.eu,RO,BUNEA-HIGH-PEER-NETWORK
 62864,arin,netinnovation.net,JP,NILAS
 63881,apnic,medianetdigital.co,ID,MDI-AS-ID
+64050,apnic,bgp.net,SG,BGNL-HK
 131388,apnic,hts.vn,VN,HTS-AS-VN
 131750,apnic,sufia.tv,ID,SUFIANET-AS-ID
 131831,apnic,nexon.co.kr,KR,MNT-KRNIC-AP
+132359,apnic,robitraders.com,BD,MSROBITRADERS-AS-AP
 132574,arin,alphainfolab.com,IN,AI-1720-132574
 132827,apnic,g-w.bz,JP,GATEWAY-AS-AP
 132930,apnic,herbalvedawellness.com,IN,HERBALVE-AS-IN
 133320,apnic,alphainfolab.com,IN,ALPHA-AS-AP
+133398,apnic,tele-asia.net,HK,TELE-AS
 133488,apnic,servicehk.net,HK,SERVICE-AS-AP
 133668,apnic,eikontech.net,IN,INFOBB-AS-IN
 133692,apnic,fastnetcpl.com,IN,Fastnet-AS-IN
@@ -138,6 +141,7 @@ as_number,rir,domain,cc,asname
 134196,apnic,cloudie.hk,HK,ANYUN-INTERNET-TECHNOLOGY-HK-CO-LIMITED
 135271,apnic,globtelgroup.com,US,GLOBTELGROUP-AS-AP
 135388,apnic,serveroffer.lt,LT,RPL-HK
+135392,apnic,tele-asia.net,HK,MILLENIALHOSTLIMITED-AS-GB
 135752,apnic,evokedigital.in,IN,EVOKEDS-AS
 136250,apnic,zqhwl-cn,CN,ZQHWL-AS-AP
 136367,apnic,herbzoothealthcare.co.in,IN,HERBZOOT-AS-IN
@@ -364,7 +368,6 @@ as_number,rir,domain,cc,asname
 213388,ripencc,iic-rail,GB,IIC-AS
 213389,ripencc,netip.com.ua,UA,ASPODOLSK
 213438,ripencc,colocatel.com,SC,colocatel-inc
-213441,ripencc,slayergroup.ltd,GB,SLAYER-AS
 213511,ripencc,vonie.net,TR,VSVK
 213652,ripencc,sunucun.com.tr,TR,Sunucun-Cloud
 213702,ripencc,qwins.co,EE,QWINS-LTD
@@ -394,6 +397,7 @@ as_number,rir,domain,cc,asname
 215460,ripencc,infiniroute.io,US,FELCLOUD
 215474,ripencc,biil.ru,GB,BIIL-RU-AS
 215540,ripencc,globconnex.com,RU,GCS-AS
+215590,ripencc,dpkgsoft.ru,RU,XORA-AS
 215730,ripencc,h2.nexus,UA,H2NEXUS-AS
 215731,ripencc,novuslabslimited.com,US,NovusLabs
 215765,ripencc,pitline.net,UA,RADIO-LINK-SMART
@@ -409,7 +413,9 @@ as_number,rir,domain,cc,asname
 218785,ripencc,tcdatacenter.com,HK,TC-DATACENTER
 218974,ripencc,changway.hk,HK,UFO-TECHNOLOGIES-LIMITED
 218986,ripencc,snowcore.io,GB,SnowcoreInc
-219067,ripencc,eggywall.org,IT,CHIARA-AS
+219048,ripencc,sunservers.net,IN,SUN-IT-SOLUTIONS
+219050,ripencc,teraflow.co,US,TERAFLOW
+219067,ripencc,eggywall.org,IT,EGGYWALL
 219199,ripencc,genyus.sc,SC,GENYUS-AS
 219326,ripencc,sulavi.co.uk,GB,SULAVIL
 219337,ripencc,play2go.cloud,RU,PLAY2GO
@@ -423,6 +429,7 @@ as_number,rir,domain,cc,asname
 328958,afrinic,cybrscrb.com,SC,CL21-AS
 329007,afrinic,elende.ao,AO,ELENDE
 394082,arin,ipswat.com,US,GOOGLE-PEER
+397081,arin,valkyrie-hosting.net,US,VALKYRIE-HOSTING
 397881,arin,ipswat.com,US,STINGERS
 398638,arin,jellydigital.net,US,JELLYDIGITAL
 398741,arin,62yun.com,RU,AS-VERTEXLINK-01
