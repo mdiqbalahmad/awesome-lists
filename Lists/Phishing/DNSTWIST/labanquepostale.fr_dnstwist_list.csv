@@ -1423,7 +1423,7 @@ insertion,plabanquepostale.fr,,,,
 omission,abanquepostale.fr,104.247.81.99,,mail.h-email.net,ns1.parkingcrew.net
 omission,labanqueostale.fr,104.247.81.99,,mail.h-email.net,ns1.parkingcrew.net
 omission,labaquepostale.fr,104.247.81.99,,mail.h-email.net,ns1.parkingcrew.net
-omission,labanqepostale.fr,145.223.124.145,2a02:4780:4c:1955:66d8:13c0:175b:704f,mx1.hostinger.com,lunar.dns-parking.com
+omission,labanqepostale.fr,147.79.72.246,2a02:4780:4c:7461:838:76a5:80ec:985a,mx1.hostinger.com,lunar.dns-parking.com
 omission,laanquepostale.fr,157.90.33.73,,,ns1.park-my-domain.net
 omission,labanqueposale.fr,,,,ns2.observatoiredesmarques.fr
 omission,labanquepostae.fr,,,,
@@ -1520,11 +1520,11 @@ replacement,lybanquepostale.fr,,,,
 replacement,lzbanquepostale.fr,,,,
 replacement,oabanquepostale.fr,,,,
 replacement,pabanquepostale.fr,,,,
+subdomain,labanque.postale.fr,!ServFail,!ServFail,,!ServFail
 subdomain,l.abanquepostale.fr,104.247.81.99,,mail.h-email.net,ns1.parkingcrew.net
 subdomain,la.banquepostale.fr,,,,
 subdomain,lab.anquepostale.fr,,,,
-subdomain,labanque.postale.fr,!ServFail,!ServFail,,!ServFail
-subdomain,laba.nquepostale.fr,46.8.8.220,!ServFail,mail.parktons.com,ns.parktons.com
+subdomain,laba.nquepostale.fr,46.8.9.220,!ServFail,mail.parktons.com,ns.parktons.com
 subdomain,laban.quepostale.fr,,,,
 subdomain,labanq.uepostale.fr,,,,
 subdomain,labanqu.epostale.fr,,,,
