@@ -34,7 +34,6 @@ as_number,rir,domain,cc,asname
 26561,arin,mylir.co.uk,GB,NETRIDGE
 26833,arin,quarterhill.com,US,ETCC
 30490,arin,ethr.net,US,ETHRN
-31561,ripencc,pitline.net,UA,NINE-IX
 33042,arin,netiface.co.uk,GB,NETIFACE-TORONTO
 33993,ripencc,stark-industries.solutions,MD,UFO-AS
 34450,ripencc,net-gate.ro,RO,WDC-AS
@@ -370,7 +369,6 @@ as_number,rir,domain,cc,asname
 213438,ripencc,colocatel.com,SC,colocatel-inc
 213511,ripencc,vonie.net,TR,VSVK
 213652,ripencc,sunucun.com.tr,TR,Sunucun-Cloud
-213702,ripencc,qwins.co,EE,QWINS-LTD
 213753,ripencc,serverion.com,NL,interedge
 213790,ripencc,btcloud.ro,GB,LimitedNetwork-AS
 213897,ripencc,bubblesalter,BE,BUBBLES-AS
@@ -408,6 +406,7 @@ as_number,rir,domain,cc,asname
 216246,ripencc,aeza.net,RU,RU-AEZA-AS
 216378,ripencc,net-gate.ro,RO,NETGATE-COMUNICATIONS-AS
 216475,ripencc,nktele.com,RU,nktelecom
+218219,ripencc,darkvps.pro,BG,Denev
 218731,ripencc,qwins.co,EE,Andris-Jakovlevs
 218732,ripencc,rapidoserver.com,IR,rapidoserver
 218785,ripencc,tcdatacenter.com,HK,TC-DATACENTER
@@ -416,16 +415,18 @@ as_number,rir,domain,cc,asname
 219048,ripencc,sunservers.net,IN,SUN-IT-SOLUTIONS
 219050,ripencc,teraflow.co,US,TERAFLOW
 219067,ripencc,eggywall.org,IT,EGGYWALL
+219084,ripencc,1vps.cc,BE,TaylanBelce
 219199,ripencc,genyus.sc,SC,GENYUS-AS
 219326,ripencc,sulavi.co.uk,GB,SULAVIL
 219337,ripencc,play2go.cloud,RU,PLAY2GO
 219502,ripencc,stormindustries.llc,US,STORMCLOUD-AS
+219509,ripencc,pfcloud.io,DE,PRIVATESECTOR-AS
 266702,lacnic,nodonorte.net.ar,AR,MEGALINK_S.R.L.
 266724,lacnic,donserver.cl,CL,MYRIAM_PILAR_ESCOBAR_VEGA_(DON_SERVER)
 327837,afrinic,seyix.sc,SC,SEY-IX-MANAGEMENT
 327952,afrinic,ntel.com.ng,NG,AS-NATCOM
 328095,afrinic,bluegate-exchange.co.za,ZA,BLUEGATE-EXCHANGE-AS
-328819,afrinic,bluecentrix.co.za,ZA,BPL-AS
+328819,afrinic,bluecentrix.co.za,ZA,UNKNOWN
 328958,afrinic,cybrscrb.com,SC,CL21-AS
 329007,afrinic,elende.ao,AO,ELENDE
 394082,arin,ipswat.com,US,GOOGLE-PEER
